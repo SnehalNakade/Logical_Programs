@@ -1,4 +1,8 @@
 package AssignmentDay6;
+/**
+ * @author Snehal Nakade - PerfectNumber
+ *
+ */
 
 import java.util.Scanner;
 
