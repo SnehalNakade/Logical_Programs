@@ -1,4 +1,8 @@
 package AssignmentDay6;
+/**
+ * @author Snehal Nakade - StopWatch
+ *
+ */
 
 import java.util.Scanner;
 
