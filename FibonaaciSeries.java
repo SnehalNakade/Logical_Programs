@@ -1,4 +1,8 @@
 package AssignmentDay6;
+/**
+ * @author Snehal Nakade - FibonaaciSeries
+ *
+ */
 import java.util.Scanner;
 public class FibonaaciSeries {
 
